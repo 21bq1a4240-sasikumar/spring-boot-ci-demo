@@ -1,4 +1,4 @@
-giname: Docker Build -> Push -> Deploy
+name: Docker Build -> Push -> Deploy
 
 on:
   push:
